@@ -1,1 +1,19 @@
-this is the master initial code 
+pseudo code
+{
+Initial Function()
+{
+  //Sample Code1
+  //Sample code2
+  //master code
+}
+
+Initial Security()
+{
+ //Sample Code
+ //Sample code2
+ //master code
+}
+
+
+
+} 
